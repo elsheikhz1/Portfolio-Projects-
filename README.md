@@ -19,4 +19,4 @@ I Explored the following using Covid Death excel file:
 - Continents with the highest death count per population
 - Daily Total new Cases and Total Deaths
 
-We then explored the amount the amount of people vaccinated in the world using Covid Vaccination Excel File.
+I then explored the amount the amount of people vaccinated in the world using Covid Vaccination Excel File.
