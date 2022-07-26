@@ -1,5 +1,5 @@
 # SQL-Data-Exploration-Project
-In this Project I explored Covid 19 Data base using Excel. I imported excel data into SQL. 
+In this Project I explored Covid 19 Data base using SQL. I imported excel data into SQL. 
 
 All Covid 19 Data that was used in this Project is uploaded into GitHub. ( Covid Data, Covid Death and Covid Vaccination)
 
